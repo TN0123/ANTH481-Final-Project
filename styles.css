@@ -226,8 +226,8 @@ svg path {
     font-size: 50px;
 }
 
-#init-1 p, #init-2 p, #init-2 a, #init-3 p{
-    font-size: 20px;
+#init-1 p, #init-1 a, #init-2 p, #init-2 a, #init-3 p, #init-3 a{
+    font-size: 18.75px;
     padding-left: 2rem;
     padding-right: 2rem;
     align-self: center;
